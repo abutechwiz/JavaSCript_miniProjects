@@ -1,0 +1,1 @@
+# JavaSCript_miniProjects
